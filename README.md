@@ -1,6 +1,6 @@
 # SvelteKit-TypeScript-WindiCSS-vite
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/oekazuma/sveltekit-typescript-windicss-vite)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/miinm030/sveltekit-typescript-windicss-vite)
 
 ## Technology stack
 
