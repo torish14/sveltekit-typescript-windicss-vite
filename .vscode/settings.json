@@ -1,5 +1,5 @@
 {
-  "windicss.sortOnSave": true,
+  //"windicss.sortOnSave": true,
   "svelte.plugin.css.diagnostics.enable": false,
   "files.autoSave": "off",
   "editor.formatOnSave": true,
